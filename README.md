@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sampriti-Mitra](https://github.com/Sampriti-Mitra)
 
-- 📝 I regularly write articles on [https://medium.com/@sampriti.mitra123, https://sampritimitra.hashnode.dev/](https://medium.com/@sampriti.mitra123, https://sampritimitra.hashnode.dev/)
+- 📝 I regularly write articles on [https://medium.com/@sampriti.mitra123](https://medium.com/@sampriti.mitra123) and on [https://sampritimitra.hashnode.dev/](https://sampritimitra.hashnode.dev/)
 
 - 💬 Ask me about **AWS, GCP, Golang**
 
