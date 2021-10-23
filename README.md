@@ -1,5 +1,5 @@
-<h1 align="left">Hi, I'm Sam 👋 </h1>
-<h3 align="left">A Gopher, passionate about all things Tech!</h3>
+<h1 align="center">Hi, I'm Sam 👋 </h1>
+<h3 align="center">A Gopher, passionate about all things Tech!</h3>
 
 - 🌱 I’m currently learning **GCP, AWS services**
 
