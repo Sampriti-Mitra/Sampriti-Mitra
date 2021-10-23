@@ -15,6 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Dialogflow Experience](https://medium.com/google-cloud/the-dialogflow-experience-1a19e64187bd?source=rss-354cb6439702------2)
+- [How to use Google’s Dialogflow CX to make a slack chat bot](https://levelup.gitconnected.com/how-to-use-googles-dialogflow-cx-to-make-a-slack-chat-bot-9fe3e8ca2fcf?source=rss-354cb6439702------2)
+- [Create a Slack Bot for Bitcoin Price Updates Using GCP Cloud Functions](https://betterprogramming.pub/create-a-slack-bot-for-bitcoin-price-updates-using-gcp-cloud-functions-a672fc34287c?source=rss-354cb6439702------2)
+- [Serverless, Served on a plate](https://levelup.gitconnected.com/serverless-served-on-a-plate-93af93afbe49?source=rss-354cb6439702------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
