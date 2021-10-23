@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">A backend Go developer, passionate about all things Tech!</h3>
+<h1 align="left">Hi, I'm Sam 👋 </h1>
+<h3 align="left">A Gopher, passionate about all things Tech!</h3>
 
 - 🌱 I’m currently learning **GCP, AWS services**
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sampriti-Mitra](https://github.com/Sampriti-Mitra)
 
-- 📝 I regularly write articles on [https://medium.com/@sampriti.mitra123](https://medium.com/@sampriti.mitra123) and on [https://sampritimitra.hashnode.dev/](https://sampritimitra.hashnode.dev/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@sampriti.mitra123) and on [Hashnode](https://sampritimitra.hashnode.dev/)
 
 - 💬 Ask me about **AWS, GCP, Golang**
 
