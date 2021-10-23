@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@sampriti.mitra123) and on [Hashnode](https://sampritimitra.hashnode.dev/)
 
-- 💬 Ask me about **AWS, GCP, Golang**
+- 💬 Ask me about **AWS, GCP, Golang, My Journey @ Noida -> Vadodara -> Varanasi -> Boston -> Bangalore**
 
 - 📫 How to reach me **sampriti.mitra123@gmail.com**
 
