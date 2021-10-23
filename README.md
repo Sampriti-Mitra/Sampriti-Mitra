@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Sam 👋 </h1>
 <h3 align="center">A Gopher, passionate about all things Tech!</h3>
 
+### About Me
 - 🌱 I’m currently learning **GCP, AWS services**
 
 - 👯 I’m looking to collaborate on [Dialogflow bots for slack](https://github.com/Sampriti-Mitra/dialogflow-slack-sdk)
