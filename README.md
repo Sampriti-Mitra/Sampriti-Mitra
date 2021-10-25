@@ -16,6 +16,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Relating With Docker and Kubernetes As Developers — An Analogue](https://betterprogramming.pub/relating-with-docker-and-kubernetes-as-developers-an-analogue-5e662b1f817b?source=rss-354cb6439702------2)
 - [The Dialogflow Experience](https://medium.com/google-cloud/the-dialogflow-experience-1a19e64187bd?source=rss-354cb6439702------2)
 - [How to use Google’s Dialogflow CX to make a slack chat bot](https://levelup.gitconnected.com/how-to-use-googles-dialogflow-cx-to-make-a-slack-chat-bot-9fe3e8ca2fcf?source=rss-354cb6439702------2)
 - [Create a Slack Bot for Bitcoin Price Updates Using GCP Cloud Functions](https://betterprogramming.pub/create-a-slack-bot-for-bitcoin-price-updates-using-gcp-cloud-functions-a672fc34287c?source=rss-354cb6439702------2)
