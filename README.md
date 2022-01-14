@@ -2,7 +2,9 @@
 <h3 align="center">A Gopher, passionate about all things Tech!</h3>
 
 ### About Me
-- 🌱 I’m currently learning **GCP, AWS services**
+- 🌱 I’m currently learning **Blockchain, GCP, AWS services**
+
+- 💸 Been learning blockchain for a month, already loving it!
 
 - 👯 I’m looking to collaborate on [Dialogflow bots for slack](https://github.com/Sampriti-Mitra/dialogflow-slack-sdk)
 
