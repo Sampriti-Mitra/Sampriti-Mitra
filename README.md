@@ -17,8 +17,8 @@
 - 📫 How to reach me **sampriti.mitra123@gmail.com**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
 - [Building Decentralblog - A Decentralized blogging platform](https://sampritimitra.hashnode.dev/buidling-decentrablog-the-decentralized-blogging-experience)
+<!-- BLOG-POST-LIST:START -->
 - [Relating With Docker and Kubernetes As Developers — An Analogue](https://betterprogramming.pub/relating-with-docker-and-kubernetes-as-developers-an-analogue-5e662b1f817b?source=rss-354cb6439702------2)
 - [The Dialogflow Experience](https://medium.com/google-cloud/the-dialogflow-experience-1a19e64187bd?source=rss-354cb6439702------2)
 - [How to use Google’s Dialogflow CX to make a slack chat bot](https://levelup.gitconnected.com/how-to-use-googles-dialogflow-cx-to-make-a-slack-chat-bot-9fe3e8ca2fcf?source=rss-354cb6439702------2)
