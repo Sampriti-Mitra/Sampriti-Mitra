@@ -4,15 +4,15 @@
 ### About Me
 - 🌱 I’m currently learning **Blockchain, GCP, AWS services**
 
-- 💸 Been learning blockchain for a month, already loving it!
+- 💸 Been learning blockchain for since Dec'21, made it to runners up in my first web3 [hackathon](https://townhall.hashnode.com/thirdweb-x-hashnode-hackathon-winners)!
 
-- 👯 I’m looking to collaborate on [Dialogflow bots for slack](https://github.com/Sampriti-Mitra/dialogflow-slack-sdk)
+- 👯 I’m looking to collaborate on [Decentrablog](https://github.com/Sampriti-Mitra/Decentrablog) & [Dialogflow bots for slack](https://github.com/Sampriti-Mitra/dialogflow-slack-sdk)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sampriti-Mitra](https://github.com/Sampriti-Mitra)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@sampriti.mitra123) and on [Hashnode](https://sampritimitra.hashnode.dev/)
 
-- 💬 Ask me about **AWS, GCP, Golang, Anything Tech!**
+- 💬 Ask me about **Web3, Golang, AWS, GCP, Anything Tech!**
 
 - 📫 How to reach me **sampriti.mitra123@gmail.com**
 
