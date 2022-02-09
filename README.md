@@ -4,7 +4,7 @@
 ### About Me
 - 🌱 I’m currently learning **Blockchain, GCP, AWS services**
 
-- 💸 Been learning blockchain for since Dec'21, made it to runners up in my first web3 [hackathon](https://townhall.hashnode.com/thirdweb-x-hashnode-hackathon-winners)!
+- 💸 Been learning blockchain since Dec'21, made it to runners up in my first web3 [hackathon](https://townhall.hashnode.com/thirdweb-x-hashnode-hackathon-winners)!
 
 - 👯 I’m looking to collaborate on [Decentrablog](https://github.com/Sampriti-Mitra/Decentrablog) & [Dialogflow bots for slack](https://github.com/Sampriti-Mitra/dialogflow-slack-sdk)
 
