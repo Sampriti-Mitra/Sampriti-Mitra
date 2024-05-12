@@ -2,7 +2,7 @@
 <h3 align="center">A Gopher, passionate about all things Tech!</h3>
 
 ### About Me
-- 🌱 I’m currently learning **Blockchain, GCP, AWS services**
+- 🌱 I’m currently learning **AWS DynamoDB**
 
 - 💸 Been learning blockchain since Dec'21, made it to runners up in my first web3 [hackathon](https://townhall.hashnode.com/thirdweb-x-hashnode-hackathon-winners)!
 
